@@ -1243,7 +1243,7 @@ Aneesh Chavan
 - [NTP] (https://github.com/duralumin02)
 - [Carl Che] (https://github.com/CarlChe)
 - [Dalan K] (https://github.com/ShakerrRL)
-- [Pranav Pillai] (https://github.com/pranav1597)
+- [Zach Obront] (http://github.com/zobront)
 - [Orinax Bulbaron] (https://github.com/Orinax)
 - [Conor Kennedy] (https://github.com/conorkenn)
 - [Manisha Nair] (https://github.com/maneesha-28)
